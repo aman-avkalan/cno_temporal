@@ -6,8 +6,6 @@ This project implements a **CNO (Convolutional Neural Operator)** model for the 
 
 The goal is to demonstrate how **GPU-based scientific machine learning training** can be wrapped inside a **fault-tolerant, resumable, and scalable workflow system**, suitable for production or large-scale experimentation.
 
-This repository is designed to be run on a **remote GPU machine via VS Code Remote SSH**.
-
 ---
 
 ## Problem Description
